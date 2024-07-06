@@ -1,4 +1,4 @@
-# Project Name
+# Pretty Dropzone
 
 Brief project description goes here.
 

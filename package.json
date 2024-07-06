@@ -6,18 +6,17 @@
   "types": "./dist/index.d.ts",
   "homepage": "",
   "repository": {
-    "url": "https://github.com/shabashvilinika/say-hello"
+    "url": "https://github.com/NikaShabashvili03/pretty-dropzone-react"
   },
   "scripts": {
-    "build": "tsup",
-    "start": "parcel index.html"
+    "build": "tsup"
   },
   "keywords": [
     "test"
   ],
   "author": "shabashvilinika",
   "license": "MIT",
-  "description": "Test package",
+  "description": "Dropzones for react",
   "devDependencies": {
     "@types/node": "^20.14.10",
     "@types/react": "^18.3.3",

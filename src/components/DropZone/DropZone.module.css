@@ -1,0 +1,11 @@
+.dropzone {
+    border: 2px dashed #ccc;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;
+    transition: border-color 0.3s;
+}
+
+.dragging {
+    border-color: #000;
+}

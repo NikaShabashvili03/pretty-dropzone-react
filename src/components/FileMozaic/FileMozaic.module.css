@@ -1,0 +1,22 @@
+img{
+    width: 100px;
+    border-radius: 50px;
+    height: 100px;
+    object-fit: cover;
+}
+
+
+.nonFile{
+    width: 100px;
+    border-radius: 50px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.nonFile p {
+    word-break: break-all;
+    padding: 1px;
+}
